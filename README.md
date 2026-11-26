@@ -1,20 +1,20 @@
 ### Hoi, ich bin Kev
 
-Ich baue eigene Apps für meinen Alltag und betreibe dazu ein kleines Homelab in der Schweiz.
+Ich baue eigene Apps für meinen Alltag.
 
 **Projekte**
 
 - **[Brewday](https://brewday-app.github.io/)**: iOS-App für Filterkaffee: Bohnen, Rezepte, Brüh-Timer
-- **Elevate**: Windows-App für temporäre Adminrechte mit Begründung, automatischem Entzug und Protokoll (C# / .NET)
+- **Elevate**: Windows-App für temporäre Adminrechte mit Begründung, automatischem Entzug und Protokoll
 - **Fit**: Training, Erholung und Planung, verbunden mit meiner Sportuhr
 - **Today**: Tagesübersicht mit Kalender, News und Morgen-Podcast
 - **Finanzen**: Haushaltsbuch und Depot, schlicht und übersichtlich
 - **Distill & Atlas**: Links zu Notizen und mein Wissen als Karte
 
-**Homelab**
+**Damit programmiere ich**
 
-Proxmox-Cluster mit drei Knoten, Backups mit Proxmox Backup Server und offsite, Passkey-Login (OIDC) für alle Apps, Zugriff nur über Tailscale.
+TypeScript · Next.js · React · Swift/SwiftUI · C#/.NET · Python · Docker
 
-**Stack**
+**Sonst im Einsatz**
 
-TypeScript · Next.js · React · Swift/SwiftUI · C#/.NET · Python · Docker · Proxmox · Home Assistant
+Home Assistant
