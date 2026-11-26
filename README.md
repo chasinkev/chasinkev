@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hoi, ich bin Kev
 
-<!--
-**chasinkev/chasinkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue eigene Apps für meinen Alltag und betreibe dafür ein kleines Homelab in der Schweiz. Dabei arbeite ich mit Claude und Codex als Pair-Programmer.
 
-Here are some ideas to get you started:
+**Woran ich gerade baue**
+- **Brewday**: iOS-App für Filterkaffee: Bohnen, Rezepte, Brüh-Timer
+- **Fit**: Training, Erholung und Planung, verbunden mit meiner Sportuhr
+- **Today**: Tagesübersicht mit Kalender, News und Morgen-Podcast
+- **Finanzen**: Haushaltsbuch und Depot, schlicht und übersichtlich
+- **Distill & Atlas**: Links zu Notizen und mein Wissen als Karte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Homelab**
+Proxmox-Cluster mit drei Knoten, Backups mit Proxmox Backup Server und offsite, Passkey-Login (OIDC) für alle Apps, Zugriff nur über Tailscale. KI-Agenten haben nur Lesezugriff über ein eigenes MCP-Gateway.
+
+**Stack**
+TypeScript · Next.js · React · Swift/SwiftUI · Python · Docker · Proxmox · Home Assistant
+
+<sub>Die meisten Projekte sind privat. Ausgewählte mache ich nach und nach öffentlich.</sub>
