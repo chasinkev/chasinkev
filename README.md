@@ -4,7 +4,7 @@ Ich baue eigene Apps für meinen Alltag und betreibe dazu ein kleines Homelab in
 
 **Projekte**
 
-- **Brewday**: iOS-App für Filterkaffee: Bohnen, Rezepte, Brüh-Timer
+- **[Brewday](https://brewday-app.github.io/)**: iOS-App für Filterkaffee: Bohnen, Rezepte, Brüh-Timer
 - **Fit**: Training, Erholung und Planung, verbunden mit meiner Sportuhr
 - **Today**: Tagesübersicht mit Kalender, News und Morgen-Podcast
 - **Finanzen**: Haushaltsbuch und Depot, schlicht und übersichtlich
