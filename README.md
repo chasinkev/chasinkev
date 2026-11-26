@@ -5,6 +5,7 @@ Ich baue eigene Apps für meinen Alltag und betreibe dazu ein kleines Homelab in
 **Projekte**
 
 - **[Brewday](https://brewday-app.github.io/)**: iOS-App für Filterkaffee: Bohnen, Rezepte, Brüh-Timer
+- **Elevate**: Windows-App für temporäre Adminrechte mit Begründung, automatischem Entzug und Protokoll (C# / .NET)
 - **Fit**: Training, Erholung und Planung, verbunden mit meiner Sportuhr
 - **Today**: Tagesübersicht mit Kalender, News und Morgen-Podcast
 - **Finanzen**: Haushaltsbuch und Depot, schlicht und übersichtlich
@@ -16,4 +17,4 @@ Proxmox-Cluster mit drei Knoten, Backups mit Proxmox Backup Server und offsite, 
 
 **Stack**
 
-TypeScript · Next.js · React · Swift/SwiftUI · Python · Docker · Proxmox · Home Assistant
+TypeScript · Next.js · React · Swift/SwiftUI · C#/.NET · Python · Docker · Proxmox · Home Assistant
