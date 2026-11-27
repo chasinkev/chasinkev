@@ -8,7 +8,7 @@ Wenn mir eine App fehlt, baue ich sie selbst. Fürs iPhone, fürs Web und für W
 |---|---|---|
 | <img src="https://brewday-app.github.io/icon.png" width="40" alt=""> | **[Brewday](https://brewday-app.github.io/)** | Kaffeetagebuch fürs iPhone, für Espresso und Filter: Bohnen, Rezepte mit Timer, jeder Bezug mit Bewertung |
 | <img src="https://healthbridge-app.github.io/icon.png" width="40" alt=""> | **[Healthbridge](https://healthbridge-app.github.io/)** | Schickt deine Apple-Health-Daten jeden Tag dahin, wo du sie haben willst: eigener Server, Home Assistant, Google Sheets oder CSV |
-| <img src="https://elevate-tool.github.io/logo.png" width="40" alt=""> | **[Elevate](https://elevate-tool.github.io/)** | Adminrechte auf Zeit für Windows 11: mit Begründung, Protokoll und automatischem Entzug |
+| | **Elevate** | Adminrechte auf Zeit für Windows 11: mit Begründung, Protokoll und automatischem Entzug. Webseite folgt. |
 
 **Für mich selbst gebaut**
 
